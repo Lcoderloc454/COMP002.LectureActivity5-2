@@ -14,4 +14,4 @@ favoriteLink.addEventListener("click", function(event) {
     alert("No distractions! Im coding!");
 });
 
-console.log();
+console.log()
